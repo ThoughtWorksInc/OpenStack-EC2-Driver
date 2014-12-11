@@ -1,3 +1,6 @@
+#Project incubated on StackForge to use OpenStack Project Infrastructure
+Now here! https://github.com/stackforge/ec2-driver
+
 # ThoughtWorks OpenStack to EC2 Driver
 
 Thank you for your interest in this project. This is a ThoughtWorks internal R&D project to make Hybrid cloud real!
