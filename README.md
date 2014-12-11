@@ -1,5 +1,7 @@
-#Project incubated on StackForge to use OpenStack Project Infrastructure
-Now here! https://github.com/stackforge/ec2-driver
+
+#Project incubated on StackForge
+Access it from here! https://github.com/stackforge/ec2-driver
+This has been done for the project to use OpenStack's Project Infrastructure. 
 
 # ThoughtWorks OpenStack to EC2 Driver
 
